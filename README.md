@@ -1,0 +1,2 @@
+#run rollup
+rollup -c
