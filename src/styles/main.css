@@ -1,0 +1,9 @@
+/*
+ * PostCSS styles to test Rollup’s handling of them.
+ */
+
+/* Simple reset. */
+body,* {
+  box-sizing: border-box;
+  margin: 0;
+}
