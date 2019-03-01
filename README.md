@@ -1,6 +1,6 @@
 ## run rollup
 
-rollup -c
+$ rollup -c
 
 ## 参考
 
